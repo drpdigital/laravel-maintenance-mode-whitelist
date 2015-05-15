@@ -1,0 +1,23 @@
+{
+    "name": "drpdigital/laravel-maintenance-mode-whitelist",
+    "description": "",
+    "keywords": ["laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stuart Lee",
+            "email": "stuart.lee@drpgroup.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.0.x",
+    },
+    "autoload": {
+        "psr-4": {
+            "drpdigital\\LaravelMaintenanceModeWithWhiteList\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
+
